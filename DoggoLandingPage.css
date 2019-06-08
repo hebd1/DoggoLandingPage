@@ -1,0 +1,37 @@
+#content {
+	text-align: center;
+	padding-top: 50%;
+}
+
+body	{
+	background: url(https://images.unsplash.com/photo-1539078274334-d60031017381?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: 'Pacifico', cursive;
+	vertical-align: bottom;
+
+}
+
+html {
+	height: 100%;
+}
+
+.navbar-inverse .navbar-nav .navbar-brand >li>a {
+	color: white;
+}
+
+h1 {
+	font-weight: 700;
+	color: white; 
+	font-size: 5em;
+	padding-bottom: 10px;
+}
+
+h3 {
+	color: white; 
+}
+
+.btn-default {
+	color: #101010;
+}
